@@ -93,8 +93,14 @@ Marzouk, S. & Hansen-Schirra, S. 'Evaluation of the impact of controlled languag
 
 There is a deep statistical analysis about hLEPOR and nLEPOR performance in WMT13, which shows it performed as one of the best metrics "in both the individual language pair assessment for Spanish-to-English and the aggregated set of 9 language pairs.", see the paper (Accurate Evaluation of Segment-level Machine Translation Metrics) "https://www.aclweb.org/anthology/N15-1124" Graham et al. 2015 NAACL(https://github.com/ygraham/segment-mteval)
 
+======
+News:
 
+LEPOR metrics are being used for broader tasks, in addition to Translation, such as searching (ACM Transactions: Meta-evaluation of Conversational Search Evaluation Metrics https://arxiv.org/pdf/2104.13453.pdf) and language generation (2017emnlp paper: Why We Need New Evaluation Metrics for NLG https://www.aclweb.org/anthology/D17-1238.pdf)
 
+Press:
+Logrus Global Adds hLEPOR Translation-quality Evaluation Metric Python Implementation on PyPi.org
+https://slator.com/press-releases/logrus-global-adds-hlepor-translation-quality-evaluation-metric-python-implementation-on-pypi-org/ 
 
-
+Python version of hLEPOR: https://pypi.org/project/hLepor/ 
 
