@@ -71,18 +71,12 @@ WMT:
 
 Msc. thesis:
 
-@article{DBLP:journals/corr/Han17,
-  author    = {Lifeng Han},
-  title     = {{LEPOR:} An Augmented Machine Translation Evaluation Metric},
-  journal   = {CoRR},
-  volume    = {abs/1703.08748},
-  year      = {2017},
-  url       = {http://arxiv.org/abs/1703.08748},
-  archivePrefix = {arXiv},
-  eprint    = {1703.08748},
-  timestamp = {Mon, 13 Aug 2018 16:48:22 +0200},
-  biburl    = {https://dblp.org/rec/bib/journals/corr/Han17},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
+@book{han2014lepor,
+  title={LEPOR: An Augmented Machine Translation Evaluation Metric},
+  author={Han, Lifeng},
+  year={2014},
+  url = {https://arxiv.org/pdf/1703.08748.pdf},
+  publisher={University of Macau, Macao}
 }
 
 -------------
